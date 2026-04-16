@@ -3,7 +3,8 @@
     "allow": [
       "Bash(ls -1 /c/Users/kaijn/Documents/arch-n-ad/Templates/template-modern-business/components/magicui/*.tsx)",
       "Bash(npm run *)",
-      "Bash(curl -s http://localhost:3000/)"
+      "Bash(curl -s http://localhost:3000/)",
+      "Bash(npm install *)"
     ]
   }
 }
