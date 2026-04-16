@@ -32,7 +32,7 @@ No test runner is configured.
 npx shadcn@latest add <component>
 ```
 
-**Path alias** — `@/*` resolves to the project root. Use `@/components/ui/...`, `@/lib/utils`, etc.
+**Path alias** — `@/*` resolves to the project root. Use `@/components/ui/...`, `@/lib/utils`, etc. 
 
 **`cn` utility** — [lib/utils.ts](lib/utils.ts) exports `cn()` (clsx + tailwind-merge). Always use it when conditionally applying Tailwind classes.
 
