@@ -28,7 +28,7 @@ No test runner is configured.
 **CSS Variables** — design tokens use oklch colors defined in `:root` and `.dark` blocks in `globals.css`. Dark mode is toggled via the `.dark` class (not `prefers-color-scheme`).
 
 **Component library** — shadcn/ui components are in [components/ui/](components/ui/). They use `@base-ui/react` (not `@radix-ui/react`) as the primitive layer and CVA for variants. Add new shadcn components with:
-```bash
+```bash 
 npx shadcn@latest add <component>
 ```
 
