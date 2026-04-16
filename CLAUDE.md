@@ -36,7 +36,7 @@ npx shadcn@latest add <component>
 
 **`cn` utility** — [lib/utils.ts](lib/utils.ts) exports `cn()` (clsx + tailwind-merge). Always use it when conditionally applying Tailwind classes.
 
-## Design System
+## Design System 
 
 * **Background:** Deep Charcoal/Off-Black (`#0F1113` or `bg-zinc-950`).
 * **Surface Color:** Dark Grey cards (`#1A1C1E` or `bg-zinc-900/50`).
